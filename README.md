@@ -20,6 +20,8 @@ https://user-images.githubusercontent.com/91448597/137918476-36a44656-872b-41f3-
 
 npm install
 npm start
+npm install axios
+
 ~~~
 - Use below command to run node modules.
 
