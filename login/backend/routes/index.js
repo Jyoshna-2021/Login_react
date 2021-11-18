@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var users=[{
-  email:'abc@gmail.com', password:"password"
+  email:'abc@gmail.com', password:"pass@word1"
 }]
 /* GET home page. */
 router.get('/', function(req, res, next) {
